@@ -1,0 +1,23 @@
+main {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: aliceblue;
+    background-color: black;
+    margin: 0;
+    padding: 5px;
+}
+
+#weather {
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    text-align: center;
+    align-content: center;
+}
+
+.list-info {
+    margin-top:10px;
+}
